@@ -1,12 +1,12 @@
 export default function PrivacyPage() {
     return (
       <main className="mx-auto max-w-3xl px-6 py-12">
-        <h1 className="text-3xl font-bold">Privacy Policy – WorkFit</h1>
+        <h1 className="text-3xl font-bold">Privacy Policy – Lifton</h1>
         <p className="mt-4 text-sm text-gray-500">Last updated: March 2026</p>
   
         <div className="mt-8 space-y-5 text-base leading-7 text-gray-200">
           <p>
-            WorkFit does not collect, store, or transmit personal data to external
+            Lifton does not collect, store, or transmit personal data to external
             servers.
           </p>
   
@@ -17,7 +17,7 @@ export default function PrivacyPage() {
           </p>
   
           <p>
-            WorkFit does not require account creation and does not share data with
+            Lifton does not require account creation and does not share data with
             third parties.
           </p>
   
